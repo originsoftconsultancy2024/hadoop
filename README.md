@@ -1,2 +1,2 @@
-# hadoop
-Data processing using Kafka and Hadoop
+# Kafka and Hadoop
+Real Time Bitcoin Price Analysis using Kafka and Hadoop
